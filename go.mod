@@ -6,7 +6,7 @@ go 1.18
 //replace github.com/DotsCore/go-web-framework => custom path
 
 require (
-	github.com/DotsCore/go-web-framework v0.9.1-rc.4
+	github.com/DotsCore/go-web-framework v1.0.1
 	github.com/auth0/go-jwt-middleware v0.0.0-20200810150920-a32d7af194d1
 	github.com/brianvoe/gofakeit/v4 v4.3.0
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
