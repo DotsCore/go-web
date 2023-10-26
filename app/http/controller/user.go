@@ -2,14 +2,15 @@ package controller
 
 import (
 	"encoding/json"
-	"github.com/RobyFerro/go-web-framework/kernel"
-	"github.com/RobyFerro/go-web-framework/tool"
-	jwt "github.com/RobyFerro/go-web/app/auth"
-	"github.com/RobyFerro/go-web/app/http/validation"
-	"github.com/RobyFerro/go-web/database/model"
+	"log"
+
+	"github.com/DotsCore/go-web-framework/kernel"
+	"github.com/DotsCore/go-web-framework/tool"
+	jwt "github.com/DotsCore/go-web/app/auth"
+	"github.com/DotsCore/go-web/app/http/validation"
+	"github.com/DotsCore/go-web/database/model"
 	"github.com/jinzhu/gorm"
 	"golang.org/x/crypto/bcrypt"
-	"log"
 )
 
 type UserController struct {

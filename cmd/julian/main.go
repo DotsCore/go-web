@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	foundation "github.com/RobyFerro/go-web-framework"
-	"github.com/RobyFerro/go-web/register"
+	foundation "github.com/DotsCore/go-web-framework"
+	"github.com/DotsCore/go-web/register"
 	"github.com/joho/godotenv"
 )
 

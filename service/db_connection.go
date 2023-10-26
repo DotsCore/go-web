@@ -2,7 +2,8 @@ package service
 
 import (
 	"fmt"
-	"github.com/RobyFerro/go-web/config"
+
+	"github.com/DotsCore/go-web/config"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"github.com/labstack/gommon/log"

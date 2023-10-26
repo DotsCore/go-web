@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/RobyFerro/go-web-framework/register"
-	"github.com/RobyFerro/go-web/app/http/validation"
+	"github.com/DotsCore/go-web-framework/register"
+	"github.com/DotsCore/go-web/app/http/validation"
 )
 
 var AuthRouter = register.HTTPRouter{

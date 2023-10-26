@@ -3,11 +3,12 @@ package service
 import (
 	"context"
 	"fmt"
-	"github.com/RobyFerro/go-web/config"
+	"time"
+
+	"github.com/DotsCore/go-web/config"
 	"github.com/labstack/gommon/log"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
-	"time"
 )
 
 // ConnectMongo returns a connection to MongoDB

@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/RobyFerro/go-web-framework/kernel"
+	"github.com/DotsCore/go-web-framework/kernel"
 	. "github.com/auth0/go-jwt-middleware"
 	"github.com/dgrijalva/jwt-go"
 )

@@ -2,12 +2,12 @@ package main
 
 import (
 	"encoding/gob"
-	"github.com/RobyFerro/go-web-framework"
-	"github.com/RobyFerro/go-web/config"
-	"github.com/RobyFerro/go-web/database/model"
-	"github.com/RobyFerro/go-web/register"
-	"github.com/joho/godotenv"
 	"log"
+
+	"github.com/DotsCore/go-web/config"
+	"github.com/DotsCore/go-web/database/model"
+	"github.com/DotsCore/go-web/register"
+	"github.com/joho/godotenv"
 )
 
 // Main Go-Web entry point.

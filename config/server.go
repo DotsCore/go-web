@@ -1,6 +1,6 @@
 package config
 
-import "github.com/RobyFerro/go-web-framework/kernel"
+import "github.com/DotsCore/go-web-framework/kernel"
 
 func GetSever() kernel.ServerConf {
 	return kernel.ServerConf{

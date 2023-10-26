@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/RobyFerro/go-web/config"
+	"github.com/DotsCore/go-web/config"
 	"github.com/elastic/go-elasticsearch/v8"
 	"github.com/labstack/gommon/log"
 )

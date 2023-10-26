@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/RobyFerro/go-web-framework/register"
-	"github.com/RobyFerro/go-web/app/http/middleware"
+	"github.com/DotsCore/go-web-framework/register"
+	"github.com/DotsCore/go-web/app/http/middleware"
 )
 
 var AppRouter = register.HTTPRouter{

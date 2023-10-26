@@ -3,8 +3,8 @@ package middleware
 import (
 	"net/http"
 
-	"github.com/RobyFerro/go-web-framework/kernel"
-	"github.com/RobyFerro/go-web/app/auth"
+	"github.com/DotsCore/go-web-framework/kernel"
+	"github.com/DotsCore/go-web/app/auth"
 )
 
 type RefreshTokenMiddleware struct {

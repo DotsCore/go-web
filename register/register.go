@@ -1,13 +1,13 @@
 package register
 
 import (
-	foundation "github.com/RobyFerro/go-web-framework"
-	base_register "github.com/RobyFerro/go-web-framework/register"
-	"github.com/RobyFerro/go-web/app/console"
-	"github.com/RobyFerro/go-web/app/http/controller"
-	"github.com/RobyFerro/go-web/database/model"
-	"github.com/RobyFerro/go-web/module"
-	"github.com/RobyFerro/go-web/router"
+	foundation "github.com/DotsCore/go-web-framework"
+	base_register "github.com/DotsCore/go-web-framework/register"
+	"github.com/DotsCore/go-web/app/console"
+	"github.com/DotsCore/go-web/app/http/controller"
+	"github.com/DotsCore/go-web/database/model"
+	"github.com/DotsCore/go-web/module"
+	"github.com/DotsCore/go-web/router"
 )
 
 // BaseEntities returns a struct that contains Go-Web base entities

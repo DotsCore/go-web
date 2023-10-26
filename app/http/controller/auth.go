@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/RobyFerro/go-web/app/auth"
+	"github.com/DotsCore/go-web/app/auth"
 
-	"github.com/RobyFerro/go-web-framework/kernel"
-	"github.com/RobyFerro/go-web/database/model"
+	"github.com/DotsCore/go-web-framework/kernel"
+	"github.com/DotsCore/go-web/database/model"
 	"github.com/gorilla/sessions"
 	"github.com/jinzhu/gorm"
 	"golang.org/x/crypto/bcrypt"

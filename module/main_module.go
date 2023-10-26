@@ -1,8 +1,8 @@
 package module
 
 import (
-	"github.com/RobyFerro/go-web-framework/register"
-	"github.com/RobyFerro/go-web/service"
+	"github.com/DotsCore/go-web-framework/register"
+	"github.com/DotsCore/go-web/service"
 )
 
 var MainModule = register.DIModule{
